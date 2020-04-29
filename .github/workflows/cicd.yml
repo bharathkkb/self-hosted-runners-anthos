@@ -6,8 +6,6 @@ name: Self Hosted Runner CI/CD
 
 on:
   push:
-    branches:
-      - master
   pull_request:
 
 env:
